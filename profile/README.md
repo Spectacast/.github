@@ -13,7 +13,7 @@ driven from one dashboard through connectors for the tools you already use.
 | **Spectacast Meet** | Joins the online meeting and gives every participant and share its own feed. Zoom today; the platform is a connector. |
 | **Spectacast Mic** | Phones as wireless mics and talkback, received on the PC as audio devices. |
 
-**Connectors shipping today:** OBS Studio, NDI, Spectacast Meet, Spectacast Mic, Sennheiser EW-DX,
+**Connectors shipping today:** OBS Studio, NDI, Spectacast Meet, Spectacast Mic, Sennheiser EW-DX, Dante (through the mic hub),
 MIDI, folders, and your own protocols over HTTP, OSC or raw sockets. New ones are written against
 one small interface.
 
