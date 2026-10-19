@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://spectacast.com/brand/lockup-dark.png#gh-light-mode-only" alt="Spectacast" width="420">
-  <img src="https://spectacast.com/brand/lockup-light.png#gh-dark-mode-only" alt="Spectacast" width="420">
+  <img src="https://raw.githubusercontent.com/Spectacast/spectacast.github.io/main/brand/lockup-dark.png#gh-light-mode-only" alt="Spectacast" width="420">
+  <img src="https://raw.githubusercontent.com/Spectacast/spectacast.github.io/main/brand/lockup-light.png#gh-dark-mode-only" alt="Spectacast" width="420">
 </p>
 
 **One control room for the hall, the meeting and the mics.** Spectacast runs live hybrid events:
